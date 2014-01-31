@@ -1,0 +1,8 @@
+name = brook module
+description = bk man module
+core = 7.x
+php = 5.1
+package = Fields
+
+
+

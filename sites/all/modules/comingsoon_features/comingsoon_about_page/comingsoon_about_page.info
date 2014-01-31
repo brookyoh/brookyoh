@@ -1,0 +1,13 @@
+name = Comingsoon About Page
+core = 7.x
+package = Features
+dependencies[] = defaultcontent
+features[content][] = comingsoon_about_page
+features[features_api][] = api:1
+
+; Information added by drupal.org packaging script on 2013-01-16
+version = "7.x-1.0-alpha1"
+core = "7.x"
+project = "comingsoon_features"
+datestamp = "1358355063"
+
